@@ -36,7 +36,7 @@ with col1:
     # Category selection with images
     selected_category = st.selectbox('Select Category', ['Food', 'Transport', 'Entertainment', 'Rent', 'Utilities'])
     category_images = {
-        'Food': 'https://via.placeholder.com/300x200.png?text=Food',
+        'Food': 'https://images.search.yahoo.com/images/view;_ylt=AwrgMItm7OhnsNcqYE6JzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzdiNzgzYzY2ZTBmNGRjYzhiNWIwMDU0ZWYzYmQwYTM4BGdwb3MDMTAEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dfood%2Bimage%26type%3DE210US91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D10&w=1920&h=1200&imgurl=getwallpapers.com%2Fwallpaper%2Ffull%2F8%2Fb%2Fc%2F1183994-cool-healthy-food-wallpaper-1920x1200-for-samsung-galaxy.jpg&rurl=http%3A%2F%2Fgetwallpapers.com%2Fcollection%2Fhealthy-food-wallpaper&size=627KB&p=food+image&oid=7b783c66e0f4dcc8b5b0054ef3bd0a38&fr2=piv-web&fr=mcafee&tt=Healthy+Food+Wallpaper+%2865%2B+images%29&b=0&ni=21&no=10&ts=&tab=organic&sigr=7eJOnHjj0zvI&sigb=.tlomufXdNTm&sigi=bp7K7CC_C8DK&sigt=Yyje2boW_5kS&.crumb=nms72yzBoin&fr=mcafee&fr2=piv-web&type=E210US91215G0',
         'Transport': 'https://via.placeholder.com/300x200.png?text=Transport',
         'Entertainment': 'https://via.placeholder.com/300x200.png?text=Entertainment',
         'Rent': 'https://via.placeholder.com/300x200.png?text=Rent',
